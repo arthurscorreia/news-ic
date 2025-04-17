@@ -1,0 +1,18 @@
+.noticia-img {
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+
+.texto-card {
+    font-size:large;
+}
+
+.titulo {
+    font-size: 32px;
+    font-weight: bold;
+
+}
